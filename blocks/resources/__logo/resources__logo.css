@@ -1,0 +1,10 @@
+.resources__logo {
+	height: 38px;
+	width: 270px;
+	padding-top: 80px;
+	list-style-type: none;
+}
+
+.resources__logo:hover {
+	opacity: 0.5;
+}
